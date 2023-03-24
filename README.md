@@ -1,3 +1,1 @@
-# WEB PHISHING DETECTION
----
-## Category
+
